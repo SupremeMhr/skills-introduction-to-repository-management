@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @SupremeMhr
+/src/backend/database.py      @SupremeMhr
+/src/backend/routers/auth.py  @SupremeMhr
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @SupremeMhr
